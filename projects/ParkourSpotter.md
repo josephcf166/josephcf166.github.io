@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Unknown-4
-title: "PrakourSpotter"
+title: "ParkourSpotter"
 date: 2023 - 2024
 published: true
 labels:
