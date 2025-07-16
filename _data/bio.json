@@ -1,113 +1,123 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Joseph Cauvy-Foster",
+    "label": "Graduate",
+    "picture": "https://github.com/josephcf166.png",
+    "email": "josephcf166@gmail.com",
+    "phone": "07938560707",
+    "website": "https://josephcf166.github.io",
+    "summary": "<br><br>Recent Computer Science graduate (obtained a First). Looking to start a career in Software Development.<br>Throughout my academic journey, I honed my skills in Data Visualisation, Python, Machine Learning, Git, Swift, Jupyter, HTML, CSS, LaTeX, Docker, Agile practices, Django and Kotlin. Additionally, I developed strong competencies in listening, receiving feedback, problem-solving, critical thinking, teamwork, written & verbal communication, resourcefulness, creativity, time management, and the ability to learn quickly & pick up new skills.",
+    "location": { "address": "Ashbourne Terrace", "postalCode": "SW19 1QX", "city": "London", "countryCode": "UK", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "josephcf166@gmail.com", "url": "http://github.com/josephcf166" },
+      { "network": "linkedin", "username": "joseph cauvy-foster", "url": "https://www.linkedin.com/in/joseph-cauvy-foster-01375a272/" }
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+   "interests": [
+    {"name": "<b>Machine Learning</b>"},
+    {"name": "<b>Mobile Development</b>"},
+    {"name": "<b>Data Analytics & Visualisation</b>"},
+    {"name": "<b>Robotics</b> and <b>Computer Vision</b>."}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Python", "Git", "Swift", "Jupyter", "Docker", "HTML", "CSS", "LaTeX", "Agile Practices", "Kotlin", "Django"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of the West of England",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021",
       "endDate": "Present",
       "courses": [
+        "Advanced Algorithms (83%)",
+        "Machine Learning (80%)",
+        "Artificial Intelligence II (79%)",
+        "Advanced Software Development (74%)",
+        "Systems Development Group Project (70%)",
+        "Operating Systems (58%)",
+
+        "Principles of Programming (93%)",
+        "Artificial Intelligence (87%)",
+        "Web Development and Databases (81%)",
+        "Foundations of Computing (79%)",
+        "Computer Systems Architecture (65%)"
+      ]
+    },
+    {
+      "institution": "Matthew Arnold School",
+      "area": "",
+      "studyType": "A-levels",
+      "startDate": "2019",
+      "endDate": "2021",
+      "courses": [
+        "Mathematics -A",
+        "Chemistry - A",
+        "Physics - C"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Greene King",
+      "position": "FOH Staff",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024",
+      "endDate": "2025",
+      "summary": "Post-university sabbatical working in a busy pub on the bar, floor, as a waiter and helping out in the kitchen.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+      
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Ashton Gate Stadium",
+      "position": "Bar Staff",
+      "website": "",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Worked in the bar and on tills at a busy stadium during football and ruby games.",
+      "highlights": [
+      
+      ]
+    },
+    {
+      "company": "B&Q",
+      "position": "Customer Assistant, Digital Department",
+      "website": "",
+      "startDate": "2022",
+      "endDate": "2022",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Worked in a team of 50+ employees, fulfilling online orders within a short time frame.",
+        "Servicing customers at the till and on the shop floor."
+      ]
+    },
+    {
+      "company": "The Brass Pig",
+      "position": "Bar Staff",
+      "website": "",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+        "Came second place, in a team of 12, in a competition to sell the most cocktails during a shift to gain a bonus.",
+        "Served drinks and made cocktails in a busy bar/club.",
+        "Responsibility for verifying inventory every week."
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+    
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's list",
+      "date": "2022",
+      "awarder": "University of the West of England",
+      "summary": "Awarded for academic excellence during 2021/2022 (+70% average)."
     }
   ],
   "references": [
