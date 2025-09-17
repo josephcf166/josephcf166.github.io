@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Unknown-4
-title: "Hand Gesture Detection"
+title: "Hand Segmentation"
 date: 2023
 published: true
 labels:
