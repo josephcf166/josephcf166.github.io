@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Unknown-4
-title: "MoneyBall"
+title: "Dynamic Football Stastics Dashboard"
 date: 2022
 published: true
 labels:
