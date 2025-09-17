@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Unknown-4
-title: "Horizon Cinema"
+title: "Cinema Ticket Booking Website"
 date: 2021-2022
 published: true
 labels:
