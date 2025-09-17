@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Unknown-4
-title: "DoodleCode"
+title: "Sketch to HTML code"
 date: 2023 - 2024
 published: true
 labels:
