@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Unknown-4
-title: "Sketch to HTML code"
+title: "AI-based drawing-to-HTML code"
 date: 2023 - 2024
 published: true
 labels:
